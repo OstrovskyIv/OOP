@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\OOP\\laba3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78AE8FD0-C591-4300-936C-BBE5C95E6E49}|laba3\\laba3.vcxproj|H:\\OOP\\laba3\\laba3\\laba3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78AE8FD0-C591-4300-936C-BBE5C95E6E49}|laba3\\laba3.vcxproj|solutionrelative:laba3\\laba3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba3.cpp",
+              "DocumentMoniker": "H:\\OOP\\laba3\\laba3\\laba3.cpp",
+              "RelativeDocumentMoniker": "laba3\\laba3.cpp",
+              "ToolTip": "H:\\OOP\\laba3\\laba3\\laba3.cpp",
+              "RelativeToolTip": "laba3\\laba3.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAADwv3cAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T22:03:53.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

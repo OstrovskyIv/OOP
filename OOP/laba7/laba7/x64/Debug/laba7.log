@@ -1,0 +1,5 @@
+﻿  binary_tree.h
+H:\OOP\laba7\laba7\binary_tree.h(21,5): warning C4984: "if constexpr" — расширение языка C++17
+  binary_tree_iterator.h
+  Создание кода...
+  laba7.vcxproj -> H:\OOP\laba7\x64\Debug\laba7.exe

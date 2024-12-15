@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\2pilo\OneDrive\Desktop\OOP\laba4\lab4\binary_tree.h(15,5): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "main.cpp")
+  
+  LINK : не найден или не выполнена сборка C:\Users\2pilo\OneDrive\Desktop\OOP\laba4\x64\Debug\lab4.exe при последней инкрементной компоновке; выполняется полная компоновка
+  lab4.vcxproj -> C:\Users\2pilo\OneDrive\Desktop\OOP\laba4\x64\Debug\lab4.exe
